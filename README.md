@@ -1,2 +1,3 @@
 # starter
-just nvim configs based on nvchad with a few bind modifications
+just nvim configs based on nvchad with a few bind modifications. 
+nvim 0.9+
